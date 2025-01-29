@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(193, 173, 230);
+    margin: 10px;
+}
+
+h1 {
+    color: rgb(137, 51, 137);
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+}
